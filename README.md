@@ -10,7 +10,7 @@ Implement the naive Bayes and TAN (tree-augmented naive Bayes) for binary classi
 4. Use the first variable in the input file as the root.
 
 5. Run the script "bayes" by: 
-bayes lymph_train.arff lymph_test.arff n
-bayes lymph_train.arff lymph_test.arff t
-bayes vote_train.arff vote_test.arff n
+bayes lymph_train.arff lymph_test.arff n\n
+bayes lymph_train.arff lymph_test.arff t\n
+bayes vote_train.arff vote_test.arff n\n
 bayes vote_train.arff vote_test.arff t
